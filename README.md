@@ -17,8 +17,6 @@
 </a>
 
 ## Requisitos...
-- Familiaridade com terminal linux?
-- Noções de API?
 
 ## Roadmap...
 - [O que é docker e o que ele resolve?](./docs/01-o-que-e-docker.md)
@@ -26,6 +24,5 @@
 - [Instalando e rodando seu primeiro container](./docs/03-instalacao.md)
 - [Principais comandos](./docs/04-comandos.md)
 - Criando imagens com Dockerfile
-- [Lab] Criar imagem e container de um site estático
 - Docker Compose
 - Boas práticas
