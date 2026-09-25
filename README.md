@@ -25,6 +25,7 @@
 - [Principais comandos](./docs/04-comandos.md)
 - [Criando imagens com Dockerfile](./docs/05-criando-imagens.md)
     - [Laboratório 1 - Hospedando site estático](./labs/site-estatico/lab-01.md)
-- Armazenamento com volumes
+- [Armazenamento com volumes](./docs/06-volumes.md)
+
 - Docker Compose
 - Boas práticas
