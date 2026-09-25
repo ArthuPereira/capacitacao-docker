@@ -46,6 +46,52 @@ Explicando os outros termos:
 
 Para praticar os conceitos vistos vá para o [Laboratório 1](../labs/site-estatico/lab-01.md), onde você pode criar e executar uma imagem de um site estático.
 
+## Dockerignore
+Outro arquivo interessante para se usar na hora de criar uma imagem é o `.dockerignore`, ele guarda uma lista de arquivos, pastas e tudo aquilo que você não quer dentro da imagem. Isso evita da imagem ficar pesada guardando coisas não essenciais para funcionar
+
+Um exemplo de um dockerignore de um projeto python para você entender o que não é essencial:
+
+```dockcerignore
+# Virtual env
+.venv
+venv
+
+# Python cache
+__pycache__
+*.pyc
+*.pyo
+
+# Test cache
+.pytest_cache
+.coverage
+htmlcov
+
+# Git
+.git
+.gitignore
+
+# IDE
+.vscode
+.idea
+
+# Environment
+.env
+.env.* 
+
+# Logs
+*.log
+
+# Docker
+Dockerfile*
+docker-compose*
+
+# Docs
+README.md
+
+# Tests
+tests/
+```
+
 <div align="center">
     <a href="./04-comandos.md">←Voltar</a>
     <a href="./06">Próximo→</a>
