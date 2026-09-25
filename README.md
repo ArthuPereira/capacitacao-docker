@@ -23,6 +23,8 @@
 - [Containers e imagens](./docs/02-containers-e-imagens.md)
 - [Instalando e rodando seu primeiro container](./docs/03-instalacao.md)
 - [Principais comandos](./docs/04-comandos.md)
-- Criando imagens com Dockerfile
+- [Criando imagens com Dockerfile](./docs/05-criando-imagens.md)
+    - [Laboratório 1 - Hospedando site estático](./labs/site-estatico/lab-01.md)
+- Armazenamento com volumes
 - Docker Compose
 - Boas práticas
