@@ -37,5 +37,5 @@ Agora você pode se conectar a esse banco criado usando um Dbeaver ou outro clie
 
 <div align="center">
     <a href="./05-criando-imagens.md">←Voltar</a>
-    <a href="./07">Próximo→</a>
+    <a href="./07-compose.md">Próximo→</a>
 </div>

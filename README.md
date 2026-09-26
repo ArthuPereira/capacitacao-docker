@@ -26,6 +26,5 @@
 - [Criando imagens com Dockerfile](./docs/05-criando-imagens.md)
     - [Laboratório 1 - Hospedando site estático](./labs/site-estatico/lab-01.md)
 - [Armazenamento com volumes](./docs/06-volumes.md)
-
-- Docker Compose
+- [Docker Compose](./docs/07-compose.md)
 - Boas práticas
