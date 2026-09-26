@@ -1,5 +1,5 @@
 # Laboratório 1
-Bem vindo! aqui você vai praticar os conceitos da aula 4 e 5, criando uma imagem e executando um container com essa mesma imagem.
+Bem vindo! Aqui você vai praticar os conceitos da aula 4 e 5, criando uma imagem e executando um container com essa mesma imagem.
 
 ## Estrutura do laboratório
 Esse é o ambiente que usaremos, nele temos um `Dockerfile` que define como criar a imagem e `/src` com arquivos de um site que será servido no container final.
