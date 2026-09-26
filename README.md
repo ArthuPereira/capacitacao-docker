@@ -16,9 +16,11 @@
     <strong>Explore a documentação oficial aqui</strong>
 </a>
 
-## Requisitos...
+## Requisitos
+- Familiaridade básica com terminal/linha de comando (navegar entre pastas, rodar comandos simples)
+- Noções básicas de Git (clonar um repositório é o suficiente)
 
-## Roadmap...
+## Roadmap
 - [O que é docker e o que ele resolve?](./docs/01-o-que-e-docker.md)
 - [Containers e imagens](./docs/02-containers-e-imagens.md)
 - [Instalando e rodando seu primeiro container](./docs/03-instalacao.md)
@@ -28,4 +30,4 @@
 - [Armazenamento com volumes](./docs/06-volumes.md)
 - [Docker Compose](./docs/07-compose.md)
     - [Laboratório 2 - Usando compose para preparar ambiente](./labs/)
-- Boas práticas e próximos passos
+- [Boas práticas e próximos passos](./docs/08-boas-praticas.md)

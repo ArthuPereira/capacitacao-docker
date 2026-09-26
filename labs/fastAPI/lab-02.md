@@ -26,3 +26,8 @@ postgres-1  | 2026-09-26 20:27:23.116 UTC [1] LOG:  database system is ready to 
 
 ## Finalizando
 Após testar a API e ver como tudo funcionou junto vamos usar `docker compose down -v` para finalizar a prática. Essa flag `-v` é para excluir tudo o que o compose gerou, deixando apenas as imagens para trás.
+
+<div align="center">
+    <a href="../../docs/07-compose.md">←Voltar</a>
+    <a href="../../docs/08-boas-praticas.md">Próximo→</a>
+</div>
