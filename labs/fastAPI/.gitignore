@@ -1,0 +1,112 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# =========================
+# Virtual Environment
+# =========================
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# IDEs / Editors
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Testing
+# =========================
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# =========================
+# Type checking
+# =========================
+.pyre/
+.dmypy.json
+dmypy.json
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# SQLite
+# =========================
+*.sqlite3
+*.db
+
+# =========================
+# Alembic
+# =========================
+alembic/versions/*.pyc
+
+# =========================
+# uv
+# =========================
+.python-version
+
+# Ignore lockfile apenas se for biblioteca.
+# Para aplicação FastAPI PROFISSIONAL, normalmente COMITAMOS.
+# uv.lock
+
+# =========================
+# PyCharm
+# =========================
+*.iml
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Coverage
+# =========================
+coverage.xml
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.temp
