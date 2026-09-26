@@ -27,4 +27,5 @@
     - [Laboratório 1 - Hospedando site estático](./labs/site-estatico/lab-01.md)
 - [Armazenamento com volumes](./docs/06-volumes.md)
 - [Docker Compose](./docs/07-compose.md)
-- Boas práticas
+    - [Laboratório 2 - Usando compose para preparar ambiente](./labs/)
+- Boas práticas e próximos passos

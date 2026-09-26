@@ -111,7 +111,10 @@ volumes:
 
 Esse bloco no final, fora de services, é onde o compose declara os volumes nomeados que vão ser usados, é o equivalente ao `docker volume create dados_db` que rodamos antes do docker run do banco de dados. Sem essa declaração aqui, o volume citado lá em cima não existiria.
 
+## Usando Docker Compose na prática
+Agora que já temos uma base dos conceitos e da prática chegou a hora de ir para um ambiente mais próximo da realidade. O [Laboratório 2](../labs/fastAPI/lab-02.md) reune vários dos conceitos que já vimos em um repositório de uma api Python com fastAPI. Vamos lá!
+
 <div align="center">
     <a href="./06-volumes.md">←Voltar</a>
-    <a href="./08">Próximo→</a>
+    <a href="./08-boas-praticas.md">Próximo→</a>
 </div>
